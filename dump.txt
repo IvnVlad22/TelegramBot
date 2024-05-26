@@ -1,0 +1,7 @@
+sqlite3 my.db
+CREATE TABLE com (
+   id INTEGER PRIMARY KEY,
+   command TEXT NOT NULL
+  );
+.tables
+.exit
